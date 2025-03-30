@@ -61,6 +61,8 @@ _A video demonstrating the callout functionality in Coda's editor._
 
 Write a detailed design document outlining your implementation approach for an AI-enabled inline edit feature.
 
+**You cannot use tiptap's AI plugin to implement this feature. you have to implement this functionality yourself.**
+
 [Watch Notion's AI-enabled inline edits demo video](./assets/notion_inline_edit_recording.mp4)
 _A video demonstrating how AI-enabled inline edits are implemented in Notion's editor._
 
