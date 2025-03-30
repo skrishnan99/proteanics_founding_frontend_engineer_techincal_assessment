@@ -107,4 +107,4 @@ You will be evaluated on:
    3. Info on the keyboard shortcut you have bound to the callout component (what is the keyboard shortcut you have used to add a callout)
 3. Create a file named **InlineEditFeature.md** containing information on your implementation design for the AI-enabled inline edit feature
 
-**Once you have completed the assignment, please create a pull request in the private repository and tag me as a reviewer.**
+**Once you have completed the assignment, please create an issue in the private repository saying you have completed the assignment and tag me.**
