@@ -29,13 +29,13 @@
 
 ## Task Overview
 
-For this assignment, you will work with Tiptap, a headless text editor framework (<a href="https://tiptap.dev/docs/editor/getting-started/overview" target="_blank">https://tiptap.dev/docs/editor/getting-started/overview</a>). Tiptap is built on ProseMirror (<a href="https://prosemirror.net/docs/" target="_blank">https://prosemirror.net/docs/</a>).
+For this assignment, you will work with Tiptap, a headless text editor framework (https://tiptap.dev/docs/editor/getting-started/overview). Tiptap is built on ProseMirror (https://prosemirror.net/docs/).
 
 Please familiarize yourself with both libraries' documentation before beginning. You should prioritize using Tiptap where possible and leverage ProseMirror when needed functionality isn't natively available in Tiptap. For Part 3, you may need to use both libraries together depending on how you implement the feature.
 
 ### Part 1: Basic Editor Setup
 
-Implement a basic Tiptap editor using the StarterKit extension (<a href="https://tiptap.dev/docs/editor/extensions/functionality/starterkit" target="_blank">https://tiptap.dev/docs/editor/extensions/functionality/starterkit</a>). This will initialize an editor with essential node types like paragraphs, headings, lists, etc.
+Implement a basic Tiptap editor using the StarterKit extension (https://tiptap.dev/docs/editor/extensions/functionality/starterkit). This will initialize an editor with essential node types like paragraphs, headings, lists, etc.
 
 ### Part 2: Callout Component Implementation
 
@@ -44,7 +44,7 @@ Create a custom callout node for your Tiptap editor. A callout is a stylized con
 ![Callout Examples](./assets/callout_examples.png)
 _An image showcasing the four callout types (Information, Best Practice, Warning, and Error) commonly used in text editors._
 
-<a href="./assets/coda_callout_recording.mp4" target="_blank">Watch Coda's callout demo video</a>
+[Watch Coda's callout demo video](./assets/coda_callout_recording.mp4)
 _A video demonstrating the callout functionality in Coda's editor._
 
 **Requirements:**
@@ -61,10 +61,10 @@ _A video demonstrating the callout functionality in Coda's editor._
 
 Write a detailed design document outlining your implementation approach for an AI-enabled inline edit feature.
 
-<a href="./assets/notion_inline_edit_recording.mp4" target="_blank">Watch Notion's AI-enabled inline edits demo video</a>
+[Watch Notion's AI-enabled inline edits demo video](./assets/notion_inline_edit_recording.mp4)
 _A video demonstrating how AI-enabled inline edits are implemented in Notion's editor._
 
-<a href="./assets/cursor_inline_edit_recording.mp4" target="_blank">Watch Cursor's AI-enabled inline edits demo video</a>
+[Watch Cursor's AI-enabled inline edits demo video](./assets/cursor_inline_edit_recording.mp4)
 _A video demonstrating how AI-enabled inline edits are implemented in Cursor's editor._
 
 **Feature Requirements:**
