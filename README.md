@@ -117,5 +117,6 @@ You will be evaluated on:
    2. A short video demonstrating the callout component in use in your editor (including any custom menus or slash commands you implemented)
    3. Info on the keyboard shortcut you have bound to the callout component (what is the keyboard shortcut you have used to add a callout)
 3. Create a file named **InlineEditFeature.md** containing information on your implementation design for the AI-enabled inline edit feature
+4. (OPTIONAL) If you have implemented the AI-enabled inline edit feature in code, add the source code for the feature in your repository, add instructions on how to run the feature in the **InlineEditFeature.md** file, add a video demonstrating the feature in use in your editor and add a link to that video in the **InlineEditFeature.md** file
 
 **Once you have completed the assignment, please create an issue in the private repository saying you have completed the assignment and tag me.**
