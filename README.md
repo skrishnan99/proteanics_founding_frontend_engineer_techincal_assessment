@@ -34,7 +34,7 @@ To be clear, **You can proceed to the next stage by submitting a detailed design
 
 **Note:** You will be evaluated on both the quality of the technical implementation as well as your design sense. Please invest thought into the aesthetics and user experience of your components.
 
-**You can use any resources you want including AI assistants to help you with the assignment.**
+**You can use any resources you want, including AI assistants to help you with the assignment.**
 
 ## Task Overview
 
@@ -64,13 +64,13 @@ _A video demonstrating the callout functionality in Coda's editor._
 - Ensure callout type selection changes the container styling appropriately
 - Track which callout type is currently being used
 - Support nesting callouts (callouts inside other callouts)
-- **Optional:** Add alternative methods for adding callouts (explore menus and slash commands in tiptap's documentation)
+- **Optional:** Add alternative methods for adding callouts (explore menus and slash commands in Tiptap's documentation)
 
 ### Part 3: Design Document for AI-Enabled Inline Edits
 
 Write a detailed design document outlining your implementation approach for an AI-enabled inline edit feature.
 
-**You cannot use tiptap's AI plugin to implement this feature. you have to implement this functionality yourself.**
+**You cannot use Tiptap's AI plugin to implement this feature. You have to implement this functionality yourself.**
 
 [Watch Notion's AI-enabled inline edits demo video](./assets/notion_inline_edit_recording.mp4)
 _A video demonstrating how AI-enabled inline edits are implemented in Notion's editor._
@@ -89,6 +89,7 @@ _A video demonstrating how AI-enabled inline edits are implemented in Cursor's e
   you implemented in Part 2.
 
 There is no defined structure for this design document. Its primary goal is to clearly communicate how you will implement this feature using the primitives and utilities available in Tiptap and ProseMirror. You will be evaluated on the thoroughness of your approach, including what edge cases you've considered and the robustness of your implementation.
+
 If you'd like feedback on your design document's clarity before final submission, please raise an issue in the private repository we've set up for this task and tag me.
 
 **Hint:** Look into ProseMirror decorations, NodeViews, and marks to help with the implementation. These may come in handy depending on your implementation approach.
