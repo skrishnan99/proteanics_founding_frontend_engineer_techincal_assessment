@@ -2,7 +2,7 @@
 
 # UPDATE (April 5, 2025)
 
-Several candidates have completed the assignment ahead of schedule and have voluntarily implemented the AI-enabled inline edit feature in code. If you have made substantial progress on the assignment, you have two options:
+Some candidates have completed the assignment ahead of schedule and have voluntarily implemented the AI-enabled inline edit feature in code. If you have made substantial progress on the assignment, you have two options:
 
 1. Submit the original Part 3 design document as specified
 2. Optionally, fully implement the AI-enabled inline edit feature in code
